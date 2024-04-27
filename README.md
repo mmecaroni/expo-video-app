@@ -1,2 +1,2 @@
 # expo-video-app
-React-Native-Expo tutorial video app.
+A React-Native Expo App as a starter for a video App
